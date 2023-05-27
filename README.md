@@ -12,3 +12,4 @@ O primeiro desafio é aplicação do **Método Twist** para codificação e deco
  ## uso do comando
 
  # comando git push #
+##fez no site
